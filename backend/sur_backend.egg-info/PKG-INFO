@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: sur-backend
+Version: 0.1.0
+Requires-Dist: fastapi==0.88.0
+Requires-Dist: uvicorn==0.20.0
+Requires-Dist: python-multipart==0.0.6
+Requires-Dist: python-dotenv==0.19.2
+Requires-Dist: demucs==4.0.1
+Requires-Dist: torch==2.0.1
+Requires-Dist: torchaudio==2.0.2
